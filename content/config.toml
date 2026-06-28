@@ -1,40 +1,9 @@
 [site]
-title = "Riverside STEM Foundation"
-description = "The Riverside STEM Foundation (RSF) is a 501 (c)(3) non-profit corporation founded in 2016 to support the STEM education in the Inland Empire region. The Board of Directors comprises educators, scientists, parents, philanthropists, and business and community leaders."
+title = "Tally"
+description = "Tally is a purpose-built scheduling app for FIRST LEGO League (FLL) tournaments. It simplifies event management by keeping teams, judges, and schedules perfectly in sync."
 favicon = "/favicon.png"
-# last_updated = "March 2026"
-transparent_nav_paths = ["/", "/stem-partner"]
 
 [author]
-name = "Riverside STEM Foundation"
-title = "Non-profit Organization"
+name = "Tally"
+title = "Tally App"
 avatar = "/bio.jpg"
-
-[social]
-email = "directors@stemacademyfoundation.org"
-location = "Riverside, CA"
-location_url = "https://maps.google.com/?q=Riverside,+CA"
-
-# [[navigation]]
-# title = "About"
-# type = "page"
-# target = "about"
-# href = "/"
-
-[[navigation]]
-title = "Our Team"
-type = "page"
-target = "our-team"
-href = "/our-team"
-
-[[navigation]]
-title = "STEM Partner Program"
-type = "page"
-target = "stem-partner"
-href = "/stem-partner"
-
-[[navigation]]
-title = "Tally"
-type = "page"
-target = "tally"
-href = "/tally"
