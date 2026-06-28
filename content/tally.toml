@@ -1,6 +1,6 @@
 type = "tally"
 title = "Tally"
-description = "Tally is an app for FIRST LEGO League (FLL) that efficiently tracks tournament schedules."
+description = "Tally is a real-time tournament scheduling dashboard designed for FIRST LEGO League (FLL) events."
 
 [labels]
 current_time = "Current Time:"

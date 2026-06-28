@@ -1,6 +1,6 @@
 [site]
 title = "Tally"
-description = "Tally is a purpose-built scheduling app for FIRST LEGO League (FLL) tournaments. It simplifies event management by keeping teams, judges, and schedules perfectly in sync."
+description = "Tally is a real-time tournament scheduling dashboard designed for FIRST LEGO League (FLL) events. It integrates seamlessly with Google Sheets to provide live schedule updates, pit locations, and upcoming matches to teams and organizers."
 favicon = "/favicon.png"
 
 [author]
