@@ -85,3 +85,18 @@ If you are an organizer and don't yet have a schedule, Tally includes a built-in
 * **Team List:** Input your participating teams directly into the generator.
 * **Preview Modes:** View the resulting generated schedule in an intuitive Grid layout or a chronological List view before finalizing.
 * **Exporting:** Download the finalized schedule as an Excel spreadsheet (XLSX), PDF document, or PNG image, which you can then upload to Google Sheets to act as your live data source.
+
+## Attribution
+
+This project incorporates code from [JiayiGeng/JiayiGeng.github.io](https://github.com/JiayiGeng/JiayiGeng.github.io), which is licensed under the MIT License.
+
+- `content/config.toml`
+- `src/app/globals.css`
+- `src/app/layout.tsx`
+- `src/components/layout/Footer.tsx`
+- `src/components/layout/Navigation.tsx`
+- `src/components/ui/ThemeProvider.tsx`
+- `src/components/ui/ThemeToggle.tsx`
+- `src/lib/config.ts`
+- `src/lib/stores/themeStore.ts`
+- `src/lib/utils.ts`
